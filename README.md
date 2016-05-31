@@ -1,0 +1,2 @@
+# synthetica
+landing page hero
